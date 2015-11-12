@@ -4,29 +4,29 @@
 
 As a Customer of the Developer, you have the power and ability to enter into this contract on behalf of your company or organization. You agree to provide the Developer with everything that is needed to complete the project including text, images and other information as and when the Developer needs it, and in the format asked for. You agree to review the work created, provide feedback and sign-off approval in a timely manner too. Deadlines work two ways and you will also be bound by any dates that is set together.
 
-Customer desires to retain the Developer as an independent contractor to develop the software (the "Software") and/or the project (the "Project") described in the Development Plan attached to and made part of this Agreement. Developer is ready, willing and able to undertake the development of the Software/Project and agrees to do so under the terms and conditions set forth in this Agreement. Accordingly, the parties agree to the terms that follow.
+Customer desires to retain the Developer as an independent contractor to develop the software (the "Software") and/or the project (the "Project") described in the scope of work ("SOW") attached to and made part of this Agreement. Developer is ready, willing and able to undertake the development of the Software/Project and agrees to do so under the terms and conditions set forth in this Agreement. Accordingly, the parties agree to the terms that follow.
 
 ## TERMS
 
-1. **Preparation of Development Plan** Developer shall prepare a development plan ("Development Plan") for the Software/Project. The Development Plan shall include:
+1. **Preparation of Work** Developer shall prepare a SOW for the Software/Project. The SOW shall include:
 
    (a) detailed specifications for the Software/Project;
 
-   (b) a Scope of Work to be delivered to Customer ("Deliverables");
+   (b) a SOW to be delivered to Customer ("Deliverables");
 
    (c) a delivery schedule containing a delivery date for each Deliverable; and
 
    (d) a payment schedule detailing the amount and time of Developer's compensation.
 
-2. **Payment** The total contract price shall be detailed in the Development Plan. Customer shall pay the Developer {{fifty percent (50%) of the total upon commencement, and the remainder within}} 14 days upon project completion. Late payments by Customer shall be subject to late penalty fees of 10% per month from the due date until the amount is paid.
+2. **Payment** The total contract price shall be detailed in the SOW. Customer shall pay the Developer {{fifty percent (50%) of the total upon commencement, and the remainder within}} 14 days upon project completion. Late payments by Customer shall be subject to late penalty fees of 10% per month from the due date until the amount is paid.
 
 3. **Rights** Customer retains all rights to any graphic assets created under this Agreement by the Developer. Customer acknowledges and agrees that enhancements, bug fixes and other custom developments produced under the scope of this agreement will be subject to release under the GNU Public License v2, or another compatible and relevant open-source license.
 
-4. **Changes in Project Scope** If at any time following acceptance this agreement, Customer should desire a change in Developer's performance under this Agreement that will alter or amend the Specifications or other elements of the Development Plan, Customer shall submit to Developer a written proposal specifying the desired changes.
+4. **Changes in Project Scope** If at any time following acceptance this agreement, Customer should desire a change in Developer's performance under this Agreement that will alter or amend the Specifications or other elements of the SOW, Customer shall submit to Developer a written proposal specifying the desired changes.
 
-   Changes to the Development Plan shall be evidenced by a "Scope of Work Modification Agreement". The Scope of Work Agreement shall amend the new Scope of Work appropriately to incorporate the desired changes and acknowledge any effect of such changes on the provisions of this Agreement. The Scope of Work Agreement shall be signed by authorized representatives of Customer and Developer, whereupon Developer shall commence performance in accordance with it.
+   Changes to the SOW shall be evidenced by a "SOW Modification Agreement". The SOW Modification Agreement shall amend the new SOW appropriately to incorporate the desired changes and acknowledge any effect of such changes on the provisions of this Agreement. The SOW Modification Agreement shall be signed by authorized representatives of Customer and Developer, whereupon Developer shall commence performance in accordance with it.
 
-5. **Acceptance Testing of Software** Immediately upon completion of each Deliverable, Developer shall install the Software as stipulated in the Scope of Work. Customer shall have 7 days from the delivery of the Software to inspect, test and evaluate it to determine whether the Software satisfies the acceptance criteria in accordance with the Development Plan.
+5. **Acceptance Testing of Software** Immediately upon completion of each Deliverable, Developer shall install the Software as stipulated in the SOW. Customer shall have 7 days from the delivery of the Software to inspect, test and evaluate it to determine whether the Software satisfies the acceptance criteria in accordance with the SOW.
 
    If the Software does not satisfy the acceptance criteria, Customer shall give Developer written notice stating why the Software is unacceptable. Developer shall have 7 days from the receipt of such notice to correct the deficiencies, after which the Acceptance Testing of Software process will repeat.
 
@@ -52,4 +52,4 @@ __________________________________________________________________________
 
 
 
-{{INSERT DEVELOPMENT PLAN HERE}}
+{{INSERT SOW HERE}}
