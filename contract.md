@@ -12,7 +12,7 @@ Customer desires to retain the Developer as an independent contractor to develop
 
    (a) detailed specifications for the Software/Project;
 
-   (b) a listing of items to be delivered to Customer ("Deliverables");
+   (b) a Scope of Work to be delivered to Customer ("Deliverables");
 
    (c) a delivery schedule containing a delivery date for each Deliverable; and
 
@@ -24,9 +24,9 @@ Customer desires to retain the Developer as an independent contractor to develop
 
 4. **Changes in Project Scope** If at any time following acceptance this agreement, Customer should desire a change in Developer's performance under this Agreement that will alter or amend the Specifications or other elements of the Development Plan, Customer shall submit to Developer a written proposal specifying the desired changes.
 
-   Changes to the Development Plan shall be evidenced by a "Development Plan Modification Agreement". The Development Plan Modification Agreement shall amend the Development Plan appropriately to incorporate the desired changes and acknowledge any effect of such changes on the provisions of this Agreement. The Development Plan Modification Agreement shall be signed by authorized representatives of Customer and Developer, whereupon Developer shall commence performance in accordance with it.
+   Changes to the Development Plan shall be evidenced by a "Scope of Work Modification Agreement". The Scope of Work Agreement shall amend the new Scope of Work appropriately to incorporate the desired changes and acknowledge any effect of such changes on the provisions of this Agreement. The Scope of Work Agreement shall be signed by authorized representatives of Customer and Developer, whereupon Developer shall commence performance in accordance with it.
 
-5. **Acceptance Testing of Software** Immediately upon completion of each Deliverable, Developer shall install the Software as stipulated in the Development Plan. Customer shall have 7 days from the delivery of the Software to inspect, test and evaluate it to determine whether the Software satisfies the acceptance criteria in accordance with the Development Plan.
+5. **Acceptance Testing of Software** Immediately upon completion of each Deliverable, Developer shall install the Software as stipulated in the Scope of Work. Customer shall have 7 days from the delivery of the Software to inspect, test and evaluate it to determine whether the Software satisfies the acceptance criteria in accordance with the Development Plan.
 
    If the Software does not satisfy the acceptance criteria, Customer shall give Developer written notice stating why the Software is unacceptable. Developer shall have 7 days from the receipt of such notice to correct the deficiencies, after which the Acceptance Testing of Software process will repeat.
 
