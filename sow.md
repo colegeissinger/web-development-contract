@@ -24,7 +24,7 @@ This SOW covers the following activities and deliverables.
 
 ## SCHEDULE
 **Task** | **Finish Date**
---- | :---:
+--- | ---:
 Example Task | 03/27/2015
 
 ---
@@ -33,7 +33,7 @@ Example Task | 03/27/2015
 All costs listed below are based on the scope and assumptions included in this Statement of Work.
 
 **Item** | **Price** | **Hourly Estimate**
---- | :---: | :---:
+--- | ---: | :---:
 Example Item | $99,925 | 571
 **TOTAL** | **$99,925** | 571
 
