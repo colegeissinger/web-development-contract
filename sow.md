@@ -1,11 +1,8 @@
 # STATEMENT OF WORK
 
-**Date**: {{MM/DD/YY}}
-
-**Client**: {{CLIENT NAME}}
-
-**Primary Contact**: {{PRIMARY CONTACT NAME}}
-
+**Date**: {{MM/DD/YY}}<br />
+**Client**: {{CLIENT NAME}}<br />
+**Primary Contact**: {{PRIMARY CONTACT NAME}}<br />
 **From**: {{FROM NAME}}
 
 ---
