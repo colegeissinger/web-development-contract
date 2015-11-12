@@ -10,15 +10,12 @@ Customer desires to retain the Developer as an independent contractor to develop
 
 1. **Preparation of Work** Developer shall prepare a SOW for the Software/Project. The SOW shall include:
 
-   (a) detailed specifications for the Software/Project;
-
-   (b) a SOW to be delivered to Customer ("Deliverables");
-
-   (c) a delivery schedule containing a delivery date for each Deliverable; and
-
+   (a) detailed specifications for the Software/Project;<br />
+   (b) a SOW to be delivered to Customer ("Deliverables");<br />
+   (c) a delivery schedule containing a delivery date for each Deliverable; and<br />
    (d) a payment schedule detailing the amount and time of Developer's compensation.
 
-2. **Payment** The total contract price shall be detailed in the SOW. Customer shall pay the Developer {{fifty percent (50%) of the total upon commencement, and the remainder within}} 14 days upon project completion. Late payments by Customer shall be subject to late penalty fees of 10% per month from the due date until the amount is paid.
+2. **Payment** The total contract price shall be detailed in the SOW. Customer shall pay the Developer **{{fifty percent (50%) of the total upon commencement, and the remainder within}}** 14 days upon project completion. Late payments by Customer shall be subject to late penalty fees of 10% per month from the due date until the amount is paid.
 
 3. **Rights** Customer retains all rights to any graphic assets created under this Agreement by the Developer. Customer acknowledges and agrees that enhancements, bug fixes and other custom developments produced under the scope of this agreement will be subject to release under the GNU Public License v2, or another compatible and relevant open-source license.
 
