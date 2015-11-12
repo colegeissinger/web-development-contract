@@ -4,7 +4,7 @@
 
 As a Customer of the Developer, you have the power and ability to enter into this contract on behalf of your company or organization. You agree to provide the Developer with everything that is needed to complete the project including text, images and other information as and when the Developer needs it, and in the format asked for. You agree to review the work created, provide feedback and sign-off approval in a timely manner too. Deadlines work two ways and you will also be bound by any dates that is set together.
 
-Customer desires to retain the Developer as an independent contractor to develop the software (the "Software") and/or the project (the "Project") described in the scope of work ("SOW") attached to and made part of this Agreement. Developer is ready, willing and able to undertake the development of the Software/Project and agrees to do so under the terms and conditions set forth in this Agreement. Accordingly, the parties agree to the terms that follow.
+Customer desires to retain the Developer as an independent contractor to develop the software (the "Software") and/or the project (the "Project") described in the statement of work ("SOW") attached to and made part of this Agreement. Developer is ready, willing and able to undertake the development of the Software/Project and agrees to do so under the terms and conditions set forth in this Agreement. Accordingly, the parties agree to the terms that follow.
 
 ## TERMS
 
